@@ -1,0 +1,5 @@
+name: ask-me-app
+runtime: scala
+description: An AI-based documentation assistant written in Scala 3
+config:
+    pulumi:disable-default-providers: ["kubernetes"]

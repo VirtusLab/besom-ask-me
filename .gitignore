@@ -1,0 +1,5 @@
+.scala-build/
+.bloop/
+.bsp/
+.vscode/
+.metals/
